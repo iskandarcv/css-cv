@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+img{
+    width: 200px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0);
+    border-radius: 15px;
+}
+
+.begin{
+    text-align: center;
+}
+.container{
+  max-width: 700px;
+  margin: auto;
+  padding-top: 20px ;
+    
+}
+ body{
+     background: #f1f1f1;
+     color: #0f141e;
+     font-size: 16px ;
+     font-weight:normals ;
+     font-family: 'Roboto', 'sans-serif';
+ }
+ a{
+     color: #000;
+     text-decoration: none;
+ }
+ a:hover{
+     text-decoration: underline;
+     color:blue;
+ }
+ .table{
+     width: 100% ;
+ }
+ .opit{
+     background: #fff9dc;
+     padding: 15px;
+     border-radius: 24px;
+ }
+ .study{
+     background: #e5ffe7;
+     padding: 15px;
+     border-radius: 24px;
+ }
+ .knowledge{
+     background: #ffe5e5;
+     padding: 15px;
+     border-radius: 24px;
+ }
+ .nont{
+     text-align: center;
+ }
+ 
